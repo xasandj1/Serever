@@ -1,292 +1,286 @@
 {
-  "users": [
-    {
-      "email": "xasandj2002@gmail.com",
-      "password": "$2a$10$qhQHk5NyTuiRC.0ZhBcA8.tmVd0iXouueUU.RLJWBj6sRGP3Omsvq",
-      "name": "Xasan",
-      "id": 1
-    }
-  ],
-  "person": [],
-  "all": [
-    {
-      "title": "Moshina yengi misterbeen haydagan oziniki",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/car.png?raw=true",
-      "id": 39,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    },
-    {
-      "title": "Zor haytek villa bor 4 xona 2 qavatli",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/Villa.png?raw=true",
-      "id": 28,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    },
-    {
-      "title": "Xodim kerak yoshi 21 dan oshgan",
-      "price": "It stajor",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/nout.png?raw=true",
-      "id": 27,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    },
-    {
-      "title": "Svet va gaz qarzini tolab qoying",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/light.png?raw=true",
-      "id": 26,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    },
-    {
-      "title": "Kiyim kechak sotiladi holati yaxshi oglim tashab ketkan",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/clothes.png?raw=true",
-      "id": 25,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    },
-    {
-      "title": "Zor haytek villa bor 4 xona 2 qavatli",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/Villa.png?raw=true",
-      "id": 20,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    },
-    {
-      "title": "Svet va gaz qarzini tolab qoying",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/light.png?raw=true",
-      "id": 10,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    },
-    {
-      "title": "Idish tovoq yuvishga ishga qabul qlamiz",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/dish.png?raw=true",
-      "id": 1,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    },
-    {
-      "title": "Kiyim kechak sotiladi holati yaxshi oglim tashab ketkan",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/clothes.png?raw=true",
-      "id": 2,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    },
-    {
-      "title": "Restarang girgiton yonalishi boyicha ishga qabul qilamiz",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/food.png?raw=true",
-      "id": 3,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    },
-    {
-      "title": "Zor haytek villa bor 4 xona 2 qavatli",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/Villa.png?raw=true",
-      "id": 4,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    },
-    {
-      "title": "Svet va gaz qarzini tolab qoying",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/light.png?raw=true",
-      "id": 10,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    },
-    {
-      "title": "Idish tovoq yuvishga ishga qabul qlamiz",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/dish.png?raw=true",
-      "id": 6,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    },
-    {
-      "title": "Kiyim kechak sotiladi holati yaxshi oglim tashab ketkan",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/clothes.png?raw=true",
-      "id": 7,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    },
-    {
-      "title": "Restarang girgiton yonalishi boyicha ishga qabul qilamiz",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/food.png?raw=true",
-      "id": 8,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    }
-  ],
-  "home": [
-    {
-      "id": 1,
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/ProductPs.png?raw=true",
-      "title": "PS4 & PS5 ORIGINAL. Joysticklar bor.",
-      "price": "500 UYE",
-      "txt": "Kelishiladi"
-    }
-  ],
-  "hobbi": [
-    {
-      "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/car.png?raw=true",
-      "id": 39,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    }
-  ],
-  "garden": [],
-  "cars": [],
-  "texno": [],
-  "children-for": [],
-  "service": [],
-  "animals": [],
-  "free": [],
-  "work": [
-    {
-      "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/light.png?raw=true",
-      "id": 10,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    },
-    {
-      "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/food.png?raw=true",
-      "id": 3,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    }
-  ],
-  "exchange": [
-    {
-      "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
-      "price": "23 000 UYE",
-      "place": "Tashkent, Yakkasaroy",
-      "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
-      "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/car.png?raw=true",
-      "id": 39,
-      "time": "Bugun 12:27",
-      "name": "Ish"
-    }
-  ],
-  "category": [
-    {
-      "id": "1",
-      "name": "Ko’chmas mulk",
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/home.svg"
-    },
-    {
-      "id": "2",
-      "name": "Ish",
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/work.svg"
-    },
-    {
-      "id": "3",
-      "name": "Xobbi",
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/xobbi.svg"
-    },
-    {
-      "id": "4",
-      "name": "Mebel",
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/mebel.svg"
-    },
-    {
-      "id": "5",
-      "name": "Transport",
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/transport.svg"
-    },
-    {
-      "id": "6",
-      "name": "Elektr jihozlari",
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/electr.svg"
-    },
-    {
-      "id": "7",
-      "name": "Bolalar uchun",
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/bike.svg"
-    },
-    {
-      "id": "8",
-      "name": "Moda va stil",
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/00dc15a5b090968ede2022e6c7f75f9ce035965c/OXO/category/style.svg"
-    },
-    {
-      "id": "9",
-      "name": "Xizmatlar",
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/00dc15a5b090968ede2022e6c7f75f9ce035965c/OXO/category/service.svg"
-    },
-    {
-      "id": "10",
-      "name": "Hayvonlar",
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/00dc15a5b090968ede2022e6c7f75f9ce035965c/OXO/category/dog.svg"
-    },
-    {
-      "id": "11",
-      "name": "Tekinga beraman",
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/00dc15a5b090968ede2022e6c7f75f9ce035965c/OXO/category/exchange.svg"
-    },
-    {
-      "id": "12",
-      "name": "Ayirboshlash",
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/132e8f14b62c9c01be8ec1297d45eb40bfe41c7f/OXO/category/surprice.svg"
-    },
-    {
-      "id": "13",
-      "name": "Yordam Markazi",
-      "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/132e8f14b62c9c01be8ec1297d45eb40bfe41c7f/OXO/category/message.svg"
-    }
-  ]
+    "users": [
+    ],
+    "person": [],
+    "all": [
+        {
+            "title": "Moshina yengi misterbeen haydagan oziniki",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/car.png?raw=true",
+            "id": 39,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        },
+        {
+            "title": "Zor haytek villa bor 4 xona 2 qavatli",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/Villa.png?raw=true",
+            "id": 28,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        },
+        {
+            "title": "Xodim kerak yoshi 21 dan oshgan",
+            "price": "It stajor",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/nout.png?raw=true",
+            "id": 27,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        },
+        {
+            "title": "Svet va gaz qarzini tolab qoying",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/light.png?raw=true",
+            "id": 26,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        },
+        {
+            "title": "Kiyim kechak sotiladi holati yaxshi oglim tashab ketkan",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/clothes.png?raw=true",
+            "id": 25,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        },
+        {
+            "title": "Zor haytek villa bor 4 xona 2 qavatli",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/Villa.png?raw=true",
+            "id": 20,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        },
+        {
+            "title": "Svet va gaz qarzini tolab qoying",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/light.png?raw=true",
+            "id": 10,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        },
+        {
+            "title": "Idish tovoq yuvishga ishga qabul qlamiz",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/dish.png?raw=true",
+            "id": 1,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        },
+        {
+            "title": "Kiyim kechak sotiladi holati yaxshi oglim tashab ketkan",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/clothes.png?raw=true",
+            "id": 2,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        },
+        {
+            "title": "Restarang girgiton yonalishi boyicha ishga qabul qilamiz",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/food.png?raw=true",
+            "id": 3,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        },
+        {
+            "title": "Zor haytek villa bor 4 xona 2 qavatli",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/Villa.png?raw=true",
+            "id": 4,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        },
+        {
+            "title": "Svet va gaz qarzini tolab qoying",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/light.png?raw=true",
+            "id": 10,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        },
+        {
+            "title": "Idish tovoq yuvishga ishga qabul qlamiz",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/dish.png?raw=true",
+            "id": 6,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        },
+        {
+            "title": "Kiyim kechak sotiladi holati yaxshi oglim tashab ketkan",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/clothes.png?raw=true",
+            "id": 7,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        },
+        {
+            "title": "Restarang girgiton yonalishi boyicha ishga qabul qilamiz",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/food.png?raw=true",
+            "id": 8,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        }
+    ],
+    "home": [
+        {
+            "id": 1,
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/ProductPs.png?raw=true",
+            "title": "PS4 & PS5 ORIGINAL. Joysticklar bor.",
+            "price": "500 UYE",
+            "txt": "Kelishiladi"
+        }
+    ],
+    "hobbi": [
+        {
+            "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/car.png?raw=true",
+            "id": 39,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        }
+    ],
+    "garden": [],
+    "cars": [],
+    "texno": [],
+    "children-for": [],
+    "service": [],
+    "animals": [],
+    "free": [],
+    "work": [
+        {
+            "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/light.png?raw=true",
+            "id": 10,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        },
+        {
+            "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/food.png?raw=true",
+            "id": 3,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        }
+    ],
+    "exchange": [
+        {
+            "title": "Tovar nomi maksimum ikki qator bo’lishi kerak...",
+            "price": "23 000 UYE",
+            "place": "Tashkent, Yakkasaroy",
+            "like": "https://raw.githubusercontent.com/xasandj1/ImthonPicture/a11a0c4d0e0c28318236cb6ecf39aeea36b1171a/img/heart.svg",
+            "img": "https://github.com/xasandj1/ImthonPicture/blob/master/img/car.png?raw=true",
+            "id": 39,
+            "time": "Bugun 12:27",
+            "name": "Ish"
+        }
+    ],
+    "category": [
+        {
+            "id": "1",
+            "name": "Ko’chmas mulk",
+            "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/home.svg"
+        },
+        {
+            "id": "2",
+            "name": "Ish",
+            "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/work.svg"
+        },
+        {
+            "id": "3",
+            "name": "Xobbi",
+            "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/xobbi.svg"
+        },
+        {
+            "id": "4",
+            "name": "Mebel",
+            "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/mebel.svg"
+        },
+        {
+            "id": "5",
+            "name": "Transport",
+            "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/transport.svg"
+        },
+        {
+            "id": "6",
+            "name": "Elektr jihozlari",
+            "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/electr.svg"
+        },
+        {
+            "id": "7",
+            "name": "Bolalar uchun",
+            "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/87a1e5e29dfc0d9c882b3e682baa67462644d5db/OXO/category/bike.svg"
+        },
+        {
+            "id": "8",
+            "name": "Moda va stil",
+            "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/00dc15a5b090968ede2022e6c7f75f9ce035965c/OXO/category/style.svg"
+        },
+        {
+            "id": "9",
+            "name": "Xizmatlar",
+            "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/00dc15a5b090968ede2022e6c7f75f9ce035965c/OXO/category/service.svg"
+        },
+        {
+            "id": "10",
+            "name": "Hayvonlar",
+            "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/00dc15a5b090968ede2022e6c7f75f9ce035965c/OXO/category/dog.svg"
+        },
+        {
+            "id": "11",
+            "name": "Tekinga beraman",
+            "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/00dc15a5b090968ede2022e6c7f75f9ce035965c/OXO/category/exchange.svg"
+        },
+        {
+            "id": "12",
+            "name": "Ayirboshlash",
+            "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/132e8f14b62c9c01be8ec1297d45eb40bfe41c7f/OXO/category/surprice.svg"
+        },
+        {
+            "id": "13",
+            "name": "Yordam Markazi",
+            "img": "https://raw.githubusercontent.com/QurbonbekovaSabira/img_folder/132e8f14b62c9c01be8ec1297d45eb40bfe41c7f/OXO/category/message.svg"
+        }
+    ]
 }
